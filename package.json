@@ -4,9 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-  "dev" : "tsx watch src/singleton.ts",
-  "start" : "node dist/singleton.ts",
-  "build": "tsc -p ."
+    "dev": "tsx watch src/observer.ts",
+    "start": "node dist/factoryMethod.ts",
+    "build": "tsc -p ."
   },
   "keywords": [],
   "author": "",
