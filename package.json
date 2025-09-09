@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/observer.ts",
+    "dev": "tsx watch src/adaptador.ts",
     "start": "node dist/factoryMethod.ts",
     "build": "tsc -p ."
   },
